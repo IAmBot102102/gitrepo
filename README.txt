@@ -1,4 +1,2 @@
-Write anything you want in this file. For example:
-
-Hi, I am new to github
+Hi, I am slightly experienced in github
 This is my codewizards internship
